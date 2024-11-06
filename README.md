@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Dinma-Data
 - 👀 I’m interested in data analytics and data science
 - 🌱 I’m currently learning MS Excel and Bash scripting
-- 💞️ I’m looking to collaborate on projects
+- 💞️ I’m looking to collaborating on projects
 - 📫 How to reach me chidinmandubuisi001@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Love to travel
