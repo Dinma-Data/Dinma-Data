@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborating on projects
 - 📫 How to reach me chidinmandubuisi001@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: Love to travel
+- ⚡ Fun fact: Loves to travel
 
 <!---
 Dinma-Data/Dinma-Data is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
